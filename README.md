@@ -3,7 +3,7 @@
 
 > 🚧 **STATUS: IN BUILDING MODE** 🚧
 > *This platform is currently under active development. Features and services are being integrated.*
-
+See Our goal [todo.md](todo.md)
 ---
 
 ## 📖 What is SMMSun? (এটা কী?)
@@ -52,7 +52,7 @@ Your order starts almost immediately. Track every order live from your dashboard
 
 ---
 
-## 🗣️ Saying About SMMSun
+## 🗣️ Saying About SMMpanel
 *(Placeholder for Customer Testimonials)*
 
 > "These are real video reviews from our customers across Bangladesh. From small business owners to YouTube creators, see how SMMSun helped them grow." 
@@ -62,4 +62,4 @@ Your order starts almost immediately. Track every order live from your dashboard
 We accept bKash, Nagad, Binance, Payoneer, and PayPal. 
 👉 **[Click here to see all payment details and account numbers](./Acceptpaymentworldwide.md)**
 ---
-*Developed [Sayad Md Bayezid Hosan](www.sayadbayezid.com) & Maintained by the SMMSun Team.*
+*Developed [Sayad Md Bayezid Hosan](www.sayadbayezid.com) & Maintained by the SMMPanel Team.*
