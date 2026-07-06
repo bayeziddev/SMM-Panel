@@ -1,4 +1,7 @@
-# ☀️ SMMSun
+#Smartgen SMM Panel
+---
+*![logo](assets/smartgen-smm-panel-logo.svg)
+---
 ### Grow Faster, Pay Less. Best SMM Panel.
 
 > 🚧 **STATUS: IN BUILDING MODE** 🚧
