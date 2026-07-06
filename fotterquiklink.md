@@ -3,9 +3,9 @@
 <div align="left">
 
   <!-- Logo and Description -->
-  <h2>☀️ SMMSun</h2>
+  <h2>☀️ SMMpanel</h2>
   <p>
-    SMMSun is Bangladesh's most trusted SMM panel. We offer fast, affordable social media growth services for every platform, with full support for local payments like bKash and Nagad.
+    SMMpanel is Bangladesh's most trusted SMM panel. We offer fast, affordable social media growth services for every platform, with full support for local payments like bKash and Nagad.
   </p>
 
   <!-- Social Icons Row -->
