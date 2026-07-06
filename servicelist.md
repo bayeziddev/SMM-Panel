@@ -23,6 +23,9 @@
 - [Other Platforms](#other-platforms)
 
 ---
+[Make a Payment / View Payment Gateways ➡️](./Acceptpaymentworldwide.md)
+Need guide [readme.md](README.md)
+---
 
 ## 📖 How to Order
 
