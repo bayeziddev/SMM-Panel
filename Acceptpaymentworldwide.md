@@ -1,5 +1,3 @@
-Here is the complete payment documentation in a single code block, ready for you to copy and paste directly into your Acceptpaymentworldwide.md file.
-```markdown
 # 💳 Payment Information & Gateways
 
 Welcome to our global payment portal. We accept various payment methods tailored for local clients in Bangladesh and international clients worldwide. Please choose your preferred method below.
