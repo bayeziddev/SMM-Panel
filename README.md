@@ -58,4 +58,4 @@ Your order starts almost immediately. Track every order live from your dashboard
 > "These are real video reviews from our customers across Bangladesh. From small business owners to YouTube creators, see how SMMSun helped them grow." 
 
 ---
-*Developed & Maintained by the SMMSun Team.*
+*Developed [Sayad Md Bayezid Hosan](www.sayadbayezid.com) & Maintained by the SMMSun Team.*
